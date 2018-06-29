@@ -1,0 +1,91 @@
+ body {
+          background-color:#c59776;
+        margin: 0;
+        padding: 0;
+       
+      }
+       .page {
+        
+        text-align: center;
+        
+      }
+     
+      .content {
+       background-color:#d4ac90;
+           border-radius: 10px ;
+        border: solid white;
+        margin: 0 auto;
+        width: 720px;
+        padding-right: 35px;
+        padding-left: 35px;
+      }
+      .nav{
+        padding-left:200px;
+      }
+      .cnco {
+       width:300;
+      }
+      .erick {
+       width: 300;
+      }
+      .ho{
+       font-family: 'Lobster', cursive;
+       font-size: 29px;
+       color:white;
+      }
+      .Site{
+       font-family: 'Lobster', cursive;
+       font-size: 23px;
+       color:white;
+      }
+      h1{
+       font-family: 'Lobster', cursive;
+       font-size: 23px;
+       color:purple ;
+       
+      }
+      
+      .Ebca{
+       font-family: 'Satisfy', cursive;
+       font-size: 25px;
+       color:pink;
+      }
+      h2{
+       font-family: 'Satisfy', cursive;
+       font-size: 30px;
+       color:pink;
+      }
+      .lol{
+       font-family: 'Pangolin', cursive;
+       font-size: 16px;
+       color:purple;
+      }
+      .lmao{
+       font-family: 'Pangolin', cursive;
+       color:purple;
+      }
+      .cncoo{
+       font-family: 'Economica', sans-serif;
+       font-size: 21px;
+       color:	#529ecc;
+      }
+      .chalvador{
+       font-family:'Handlee', cursive;
+       font-size : 22px;
+       color:	#b66286;
+      }
+      h1{
+       font-family: 'Chewy', cursive;
+       font-size: 29px;
+       color:#df6e52;
+      }
+      .okaay{
+       font-family: 'Chewy', cursive;
+       font-size: 18px;
+       color:#df6e52;
+      }
+      .kys{
+       font-family: 'Shrikhand', cursive;
+      font-size: 19px;
+      color:#6b4848;
+      }
